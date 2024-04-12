@@ -1,3 +1,1 @@
-Write details of what you have done for the judge's consideration here. 
-
-This should include what features you have implemented, how they work, and why you think you should win.
+We've met the standard criteria and the program takes in multi-dice roles with the use of modifiers using operands (see Tests as examples)
